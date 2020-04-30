@@ -1,603 +1,1503 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Fox FHD (H265)">
-    <display-name lang="pt">Fox FHD (H265)</display-name>
+  <channel id="Band FHD (H265)">
+    <display-name lang="pt">Band FHD (H265)</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200430100700 -0300" stop="20200430121200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Esqueceram de Mim 2: Perdido em Nova York</title>
-    <category lang="pt">Filme/Comédia</category>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band SD">
+    <display-name lang="pt">Band SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200430110000 -0300" stop="20200430123000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200430121200 -0300" stop="20200430133600 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">O Gato</title>
-    <category lang="pt">Filme/Infantil</category>
+  <programme start="20200430123000 -0300" stop="20200430130000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200430133600 -0300" stop="20200430155800 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">O Espetacular Homem-Aranha 2: A Ameaça de Electro</title>
-    <category lang="pt">Filme/Aventura</category>
+  <programme start="20200430130000 -0300" stop="20200430140000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200430155800 -0300" stop="20200430162200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430140000 -0300" stop="20200430150000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200430162200 -0300" stop="20200430164500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430150000 -0300" stop="20200430160000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200430164500 -0300" stop="20200430171000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430160000 -0300" stop="20200430185000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200430171000 -0300" stop="20200430173400 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430185000 -0300" stop="20200430192000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200430173400 -0300" stop="20200430175900 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430192000 -0300" stop="20200430202000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200430175900 -0300" stop="20200430182100 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430202000 -0300" stop="20200430211000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
   </programme>
-  <programme start="20200430182100 -0300" stop="20200430201000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Estrada 47</title>
-    <category lang="pt">Filme/Drama</category>
+  <programme start="20200430211000 -0300" stop="20200430215700 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200430201000 -0300" stop="20200430203500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430215700 -0300" stop="20200430220000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200430203500 -0300" stop="20200430205500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200430220000 -0300" stop="20200430224500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200430205500 -0300" stop="20200430212000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200430212000 -0300" stop="20200430214100 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200430214100 -0300" stop="20200430220700 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200430220700 -0300" stop="20200430223000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200430223000 -0300" stop="20200501004000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Velozes e Furiosos 8</title>
+  <programme start="20200430224500 -0300" stop="20200501001500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Top Cine: Inferno</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200501004000 -0300" stop="20200501023000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zohan: Um Agente Bom de Corte</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200501001500 -0300" stop="20200501004500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501023000 -0300" stop="20200501044200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Grande Aposta</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200501004500 -0300" stop="20200501005000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200501044200 -0300" stop="20200501061500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Diário de um Banana: Caindo na Estrada</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200501005000 -0300" stop="20200501015000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">O Melhor da NBA</title>
+    <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200501061500 -0300" stop="20200501063700 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200501015000 -0300" stop="20200501024000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501063700 -0300" stop="20200501070000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200501024000 -0300" stop="20200501050000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501070000 -0300" stop="20200501072500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200501050000 -0300" stop="20200501060000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501072500 -0300" stop="20200501074500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200501060000 -0300" stop="20200501080000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501074500 -0300" stop="20200501075200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
+  <programme start="20200501080000 -0300" stop="20200501090000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501075200 -0300" stop="20200501080000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
-  </programme>
-  <programme start="20200501080000 -0300" stop="20200501083000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200501090000 -0300" stop="20200501110000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Aqui na BAND</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200501083000 -0300" stop="20200501090000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200501110000 -0300" stop="20200501123000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501123000 -0300" stop="20200501130000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501130000 -0300" stop="20200501140000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501140000 -0300" stop="20200501150000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200501090000 -0300" stop="20200501100000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200501150000 -0300" stop="20200501160000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200501100000 -0300" stop="20200501114500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">As Aventuras de Tintim</title>
-    <category lang="pt">Filme/Animação</category>
+  <programme start="20200501160000 -0300" stop="20200501185000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501114500 -0300" stop="20200501133000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Férias no Trailer</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200501185000 -0300" stop="20200501192000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501133000 -0300" stop="20200501155000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Pequena Grande Vida</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200501192000 -0300" stop="20200501202000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501155000 -0300" stop="20200501161500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200501202000 -0300" stop="20200501211000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
   </programme>
-  <programme start="20200501161500 -0300" stop="20200501164000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200501211000 -0300" stop="20200501215700 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200501164000 -0300" stop="20200501170500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200501215700 -0300" stop="20200501220000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200501170500 -0300" stop="20200501173000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200501220000 -0300" stop="20200501224500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501173000 -0300" stop="20200501195000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Noé</title>
+  <programme start="20200501224500 -0300" stop="20200502004500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Música na Band Live - O Encontro Ao Vivo - Léo Santana, Parangolé e Xanddy</title>
+    <category lang="pt">Espetáculo/Musical</category>
+  </programme>
+  <programme start="20200502004500 -0300" stop="20200502013000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502013000 -0300" stop="20200502013500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200502013500 -0300" stop="20200502022000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200502022000 -0300" stop="20200502024000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502024000 -0300" stop="20200502034500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502034500 -0300" stop="20200502050000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Cine+ Uma História de Amor</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200501195000 -0300" stop="20200501201500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200502050000 -0300" stop="20200502080000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200501201500 -0300" stop="20200501204000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200502080000 -0300" stop="20200502083000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - Tainá e os Guardiões da Amazônia</title>
+    <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200501204000 -0300" stop="20200501210500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200502083000 -0300" stop="20200502090000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - Rob, o Robô</title>
+    <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200501210500 -0300" stop="20200501223000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Era do Gelo</title>
-    <category lang="pt">Filme/Animação</category>
+  <programme start="20200502090000 -0300" stop="20200502093000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - Pac-Man</title>
+    <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200501223000 -0300" stop="20200502005000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Homem-Aranha 3</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200502005000 -0300" stop="20200502022500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Cada um tem a Gêmea que Merece</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200502022500 -0300" stop="20200502043500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Menina que Roubava Livros</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200502043500 -0300" stop="20200502061500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">O Garoto do Alabama</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200502061500 -0300" stop="20200502063500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502063500 -0300" stop="20200502070000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502070000 -0300" stop="20200502072500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200502072500 -0300" stop="20200502074500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200502074500 -0300" stop="20200502075200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
-  </programme>
-  <programme start="20200502075200 -0300" stop="20200502080000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
-  </programme>
-  <programme start="20200502080000 -0300" stop="20200502083000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20200502083000 -0300" stop="20200502090000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20200502090000 -0300" stop="20200502100000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20200502100000 -0300" stop="20200502112500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Acampamento do Papai</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200502112500 -0300" stop="20200502115000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502115000 -0300" stop="20200502121500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502121500 -0300" stop="20200502124000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502124000 -0300" stop="20200502130500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502130500 -0300" stop="20200502133000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200502133000 -0300" stop="20200502155000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Noé</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200502155000 -0300" stop="20200502175500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Caça-Fantasmas</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200502175500 -0300" stop="20200502192500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Era do Gelo 4</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200502192500 -0300" stop="20200502210000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Era do Gelo: O Big Bang</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200502210000 -0300" stop="20200502223500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Meu Malvado Favorito 3</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200502223500 -0300" stop="20200503001500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Quarteto Fantástico</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200503001500 -0300" stop="20200503020000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Jumanji</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200503020000 -0300" stop="20200503042000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Pequena Grande Vida</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200503042000 -0300" stop="20200503060500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">As Aventuras de Tintim</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200503060500 -0300" stop="20200503063000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200503063000 -0300" stop="20200503070000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200503070000 -0300" stop="20200503071500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Mickey - Aventuras Sobre Rodas</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200503071500 -0300" stop="20200503073000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Doutora Brinquedos e Seu Hospital</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200503073000 -0300" stop="20200503074500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">TOTS - Serviço de Entrega de Filhotes</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200503074500 -0300" stop="20200503080000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Vampirina</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200503080000 -0300" stop="20200503081500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Puppy Dog Pals</title>
+  <programme start="20200502093000 -0300" stop="20200502100000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - Super Onze</title>
     <category lang="pt">Infantil/Animação</category>
   </programme>
-  <programme start="20200503081500 -0300" stop="20200503084000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Guarda do Leão</title>
+  <programme start="20200502100000 -0300" stop="20200502103000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - B-Daman</title>
     <category lang="pt">Infantil/Animação</category>
   </programme>
-  <programme start="20200503084000 -0300" stop="20200503085500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Muppet Babies</title>
+  <programme start="20200502103000 -0300" stop="20200502110000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries/Viagem</category>
+  </programme>
+  <programme start="20200502110000 -0300" stop="20200502113000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200502113000 -0300" stop="20200502120000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502120000 -0300" stop="20200502123000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Nosso Agro</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200502123000 -0300" stop="20200502124500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502124500 -0300" stop="20200502160000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Sessão Livre: As Bruxas De Oz</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200502160000 -0300" stop="20200502185000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502185000 -0300" stop="20200502192000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502192000 -0300" stop="20200502202000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502202000 -0300" stop="20200502211000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200502211000 -0300" stop="20200502215700 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502215700 -0300" stop="20200502220000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502220000 -0300" stop="20200502223000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Documento Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502223000 -0300" stop="20200502230000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Operação Implacável</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200502230000 -0300" stop="20200502234500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Orange is The New Black</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200502234500 -0300" stop="20200503013000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">SFT - MMA - Especial Melhores Lutas</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200503013000 -0300" stop="20200503034500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Cine Privé: O Amante Misterioso</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200503034500 -0300" stop="20200503050000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Cinema Na Madrugada: Retrato de Mulher</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200503050000 -0300" stop="20200503080000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200503080000 -0300" stop="20200503090000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - Beyblade Burst</title>
     <category lang="pt">Infantil/Animação</category>
   </programme>
-  <programme start="20200503085500 -0300" stop="20200503091000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Nivis: Amigos de Outro Mundo</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200503091000 -0300" stop="20200503092500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Fancy Nancy Clancy</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200503092500 -0300" stop="20200503094000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Mickey Mouse</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200503094000 -0300" stop="20200503095000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Vampirina</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200503095000 -0300" stop="20200503100000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Puppy Dog Pals</title>
+  <programme start="20200503090000 -0300" stop="20200503100000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - Super Onze</title>
     <category lang="pt">Infantil/Animação</category>
   </programme>
-  <programme start="20200503100000 -0300" stop="20200503121500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Pequena Grande Vida</title>
+  <programme start="20200503100000 -0300" stop="20200503103000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Kids - B-Daman</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503103000 -0300" stop="20200503111000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Mundo Animado - Changeman</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200503111000 -0300" stop="20200503115000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Mundo Animado - Jiraiya</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200503115000 -0300" stop="20200503123000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Mundo Animado - Jaspion</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200503123000 -0300" stop="20200503140000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Esporte Clube</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200503140000 -0300" stop="20200503154500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Você Torceu Aqui - São Paulo x Milan</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200503154500 -0300" stop="20200503163000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Planeta Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200503163000 -0300" stop="20200503180000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Cine Band: Tubarão de Malibu</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200503180000 -0300" stop="20200503193000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">3º Tempo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200503193000 -0300" stop="20200503211500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Domingo no Cinema: A Família Addams</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200503121500 -0300" stop="20200503124000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200503211500 -0300" stop="20200503223000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Sessão Especial: Todo Mundo em Pânico</title>
+    <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200503124000 -0300" stop="20200503130500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200503223000 -0300" stop="20200504001500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Cine Ação: Kill Bill - Volume 1</title>
+    <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200503130500 -0300" stop="20200503133500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504001500 -0300" stop="20200504011500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Canal Livre</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200503133500 -0300" stop="20200503140000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504011500 -0300" stop="20200504020000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Show Business</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200503140000 -0300" stop="20200503142500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504020000 -0300" stop="20200504023000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200503142500 -0300" stop="20200503145000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504023000 -0300" stop="20200504050000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Cinema na Madrugada: Catch .44</title>
+    <category lang="pt">Filme/Suspense</category>
   </programme>
-  <programme start="20200503145000 -0300" stop="20200503165500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Estrelas Além do Tempo</title>
+  <programme start="20200504050000 -0300" stop="20200504060000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504060000 -0300" stop="20200504080000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504080000 -0300" stop="20200504090000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504090000 -0300" stop="20200504110000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200504110000 -0300" stop="20200504123000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504123000 -0300" stop="20200504130000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504130000 -0300" stop="20200504140000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504140000 -0300" stop="20200504150000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200504150000 -0300" stop="20200504160000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200504160000 -0300" stop="20200504185000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504185000 -0300" stop="20200504192000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504192000 -0300" stop="20200504202000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504202000 -0300" stop="20200504211000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200504211000 -0300" stop="20200504215700 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200504215700 -0300" stop="20200504220000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200504220000 -0300" stop="20200504224500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504224500 -0300" stop="20200504234500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Documento Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504234500 -0300" stop="20200505003000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505003000 -0300" stop="20200505003500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505003500 -0300" stop="20200505013000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries/Viagem</category>
+  </programme>
+  <programme start="20200505013000 -0300" stop="20200505021500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200505021500 -0300" stop="20200505024000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505024000 -0300" stop="20200505050000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505050000 -0300" stop="20200505060000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505060000 -0300" stop="20200505080000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505080000 -0300" stop="20200505090000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505090000 -0300" stop="20200505110000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505110000 -0300" stop="20200505123000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505123000 -0300" stop="20200505130000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505130000 -0300" stop="20200505140000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505140000 -0300" stop="20200505150000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505150000 -0300" stop="20200505160000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505160000 -0300" stop="20200505185000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505185000 -0300" stop="20200505192000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505192000 -0300" stop="20200505202000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505202000 -0300" stop="20200505211000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200505211000 -0300" stop="20200505215700 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200505215700 -0300" stop="20200505220000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200505220000 -0300" stop="20200505224500 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505224500 -0300" stop="20200506003000 -0300" channel="Band FHD (H265)">
+    <title lang="pt">Terça Especial: Expresso Transiberiano</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200430110000 -0300" stop="20200430123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200430123000 -0300" stop="20200430130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200430130000 -0300" stop="20200430140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200430140000 -0300" stop="20200430150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200430150000 -0300" stop="20200430160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200430160000 -0300" stop="20200430185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430185000 -0300" stop="20200430192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430192000 -0300" stop="20200430202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430202000 -0300" stop="20200430211000 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200430211000 -0300" stop="20200430215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200430215700 -0300" stop="20200430220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200430220000 -0300" stop="20200430224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430224500 -0300" stop="20200501001500 -0300" channel="Band HD">
+    <title lang="pt">Top Cine: Inferno</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200501001500 -0300" stop="20200501004500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501004500 -0300" stop="20200501005000 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501005000 -0300" stop="20200501015000 -0300" channel="Band HD">
+    <title lang="pt">O Melhor da NBA</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200501015000 -0300" stop="20200501024000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501024000 -0300" stop="20200501050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501050000 -0300" stop="20200501060000 -0300" channel="Band HD">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501060000 -0300" stop="20200501080000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501080000 -0300" stop="20200501090000 -0300" channel="Band HD">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501090000 -0300" stop="20200501110000 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200501110000 -0300" stop="20200501123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501123000 -0300" stop="20200501130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501130000 -0300" stop="20200501140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501140000 -0300" stop="20200501150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200501150000 -0300" stop="20200501160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200501160000 -0300" stop="20200501185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501185000 -0300" stop="20200501192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501192000 -0300" stop="20200501202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501202000 -0300" stop="20200501211000 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200501211000 -0300" stop="20200501215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200501215700 -0300" stop="20200501220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200501220000 -0300" stop="20200501224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501224500 -0300" stop="20200502004500 -0300" channel="Band HD">
+    <title lang="pt">Música na Band Live - O Encontro Ao Vivo - Léo Santana, Parangolé e Xanddy</title>
+    <category lang="pt">Espetáculo/Musical</category>
+  </programme>
+  <programme start="20200502004500 -0300" stop="20200502013000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502013000 -0300" stop="20200502013500 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200502013500 -0300" stop="20200502022000 -0300" channel="Band HD">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200502022000 -0300" stop="20200502024000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502024000 -0300" stop="20200502034500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502034500 -0300" stop="20200502050000 -0300" channel="Band HD">
+    <title lang="pt">Cine+ Uma História de Amor</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200503165500 -0300" stop="20200503183500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Gente Grande 2</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200502050000 -0300" stop="20200502080000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200503183500 -0300" stop="20200503210000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Homem-Aranha 3</title>
+  <programme start="20200502080000 -0300" stop="20200502083000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - Tainá e os Guardiões da Amazônia</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20200502083000 -0300" stop="20200502090000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - Rob, o Robô</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20200502090000 -0300" stop="20200502093000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - Pac-Man</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20200502093000 -0300" stop="20200502100000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - Super Onze</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200502100000 -0300" stop="20200502103000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - B-Daman</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200502103000 -0300" stop="20200502110000 -0300" channel="Band HD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries/Viagem</category>
+  </programme>
+  <programme start="20200502110000 -0300" stop="20200502113000 -0300" channel="Band HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200502113000 -0300" stop="20200502120000 -0300" channel="Band HD">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502120000 -0300" stop="20200502123000 -0300" channel="Band HD">
+    <title lang="pt">Nosso Agro</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200502123000 -0300" stop="20200502124500 -0300" channel="Band HD">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502124500 -0300" stop="20200502160000 -0300" channel="Band HD">
+    <title lang="pt">Sessão Livre: As Bruxas De Oz</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200503210000 -0300" stop="20200504002000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Titanic</title>
+  <programme start="20200502160000 -0300" stop="20200502185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502185000 -0300" stop="20200502192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502192000 -0300" stop="20200502202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502202000 -0300" stop="20200502211000 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200502211000 -0300" stop="20200502215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502215700 -0300" stop="20200502220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502220000 -0300" stop="20200502223000 -0300" channel="Band HD">
+    <title lang="pt">Documento Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502223000 -0300" stop="20200502230000 -0300" channel="Band HD">
+    <title lang="pt">Operação Implacável</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200502230000 -0300" stop="20200502234500 -0300" channel="Band HD">
+    <title lang="pt">Orange is The New Black</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200502234500 -0300" stop="20200503013000 -0300" channel="Band HD">
+    <title lang="pt">SFT - MMA - Especial Melhores Lutas</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200503013000 -0300" stop="20200503034500 -0300" channel="Band HD">
+    <title lang="pt">Cine Privé: O Amante Misterioso</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200503034500 -0300" stop="20200503050000 -0300" channel="Band HD">
+    <title lang="pt">Cinema Na Madrugada: Retrato de Mulher</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200504002000 -0300" stop="20200504020500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">O Turista</title>
-    <category lang="pt">Filme/Ação</category>
+  <programme start="20200503050000 -0300" stop="20200503080000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200504020500 -0300" stop="20200504042000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Grande Aposta</title>
+  <programme start="20200503080000 -0300" stop="20200503090000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - Beyblade Burst</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503090000 -0300" stop="20200503100000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - Super Onze</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503100000 -0300" stop="20200503103000 -0300" channel="Band HD">
+    <title lang="pt">Band Kids - B-Daman</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503103000 -0300" stop="20200503111000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Animado - Changeman</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200503111000 -0300" stop="20200503115000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Animado - Jiraiya</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200503115000 -0300" stop="20200503123000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Animado - Jaspion</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200503123000 -0300" stop="20200503140000 -0300" channel="Band HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200503140000 -0300" stop="20200503154500 -0300" channel="Band HD">
+    <title lang="pt">Você Torceu Aqui - São Paulo x Milan</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200503154500 -0300" stop="20200503163000 -0300" channel="Band HD">
+    <title lang="pt">Planeta Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200503163000 -0300" stop="20200503180000 -0300" channel="Band HD">
+    <title lang="pt">Cine Band: Tubarão de Malibu</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200503180000 -0300" stop="20200503193000 -0300" channel="Band HD">
+    <title lang="pt">3º Tempo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200503193000 -0300" stop="20200503211500 -0300" channel="Band HD">
+    <title lang="pt">Domingo no Cinema: A Família Addams</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200504042000 -0300" stop="20200504063500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">A Menina que Roubava Livros</title>
+  <programme start="20200503211500 -0300" stop="20200503223000 -0300" channel="Band HD">
+    <title lang="pt">Sessão Especial: Todo Mundo em Pânico</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200503223000 -0300" stop="20200504001500 -0300" channel="Band HD">
+    <title lang="pt">Cine Ação: Kill Bill - Volume 1</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200504001500 -0300" stop="20200504011500 -0300" channel="Band HD">
+    <title lang="pt">Canal Livre</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504011500 -0300" stop="20200504020000 -0300" channel="Band HD">
+    <title lang="pt">Show Business</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504020000 -0300" stop="20200504023000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504023000 -0300" stop="20200504050000 -0300" channel="Band HD">
+    <title lang="pt">Cinema na Madrugada: Catch .44</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200504050000 -0300" stop="20200504060000 -0300" channel="Band HD">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504060000 -0300" stop="20200504080000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504080000 -0300" stop="20200504090000 -0300" channel="Band HD">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504090000 -0300" stop="20200504110000 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200504110000 -0300" stop="20200504123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504123000 -0300" stop="20200504130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504130000 -0300" stop="20200504140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504140000 -0300" stop="20200504150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200504150000 -0300" stop="20200504160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200504160000 -0300" stop="20200504185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504185000 -0300" stop="20200504192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504192000 -0300" stop="20200504202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504202000 -0300" stop="20200504211000 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200504211000 -0300" stop="20200504215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200504215700 -0300" stop="20200504220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200504220000 -0300" stop="20200504224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504224500 -0300" stop="20200504234500 -0300" channel="Band HD">
+    <title lang="pt">Documento Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504234500 -0300" stop="20200505003000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505003000 -0300" stop="20200505003500 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505003500 -0300" stop="20200505013000 -0300" channel="Band HD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries/Viagem</category>
+  </programme>
+  <programme start="20200505013000 -0300" stop="20200505021500 -0300" channel="Band HD">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200505021500 -0300" stop="20200505024000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505024000 -0300" stop="20200505050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505050000 -0300" stop="20200505060000 -0300" channel="Band HD">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505060000 -0300" stop="20200505080000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505080000 -0300" stop="20200505090000 -0300" channel="Band HD">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505090000 -0300" stop="20200505110000 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505110000 -0300" stop="20200505123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505123000 -0300" stop="20200505130000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505130000 -0300" stop="20200505140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505140000 -0300" stop="20200505150000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505150000 -0300" stop="20200505160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505160000 -0300" stop="20200505185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505185000 -0300" stop="20200505192000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505192000 -0300" stop="20200505202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505202000 -0300" stop="20200505211000 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200505211000 -0300" stop="20200505215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200505215700 -0300" stop="20200505220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200505220000 -0300" stop="20200505224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505224500 -0300" stop="20200506003000 -0300" channel="Band HD">
+    <title lang="pt">Terça Especial: Expresso Transiberiano</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200430110000 -0300" stop="20200430123000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200430123000 -0300" stop="20200430130000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200430130000 -0300" stop="20200430140000 -0300" channel="Band SD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200430140000 -0300" stop="20200430150000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200430150000 -0300" stop="20200430160000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200430160000 -0300" stop="20200430185000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430185000 -0300" stop="20200430192000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430192000 -0300" stop="20200430202000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430202000 -0300" stop="20200430211000 -0300" channel="Band SD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200430211000 -0300" stop="20200430215700 -0300" channel="Band SD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200430215700 -0300" stop="20200430220000 -0300" channel="Band SD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200430220000 -0300" stop="20200430224500 -0300" channel="Band SD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200430224500 -0300" stop="20200501001500 -0300" channel="Band SD">
+    <title lang="pt">Top Cine: Inferno</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200501001500 -0300" stop="20200501004500 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501004500 -0300" stop="20200501005000 -0300" channel="Band SD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501005000 -0300" stop="20200501015000 -0300" channel="Band SD">
+    <title lang="pt">O Melhor da NBA</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200501015000 -0300" stop="20200501024000 -0300" channel="Band SD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501024000 -0300" stop="20200501050000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501050000 -0300" stop="20200501060000 -0300" channel="Band SD">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501060000 -0300" stop="20200501080000 -0300" channel="Band SD">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501080000 -0300" stop="20200501090000 -0300" channel="Band SD">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501090000 -0300" stop="20200501110000 -0300" channel="Band SD">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200501110000 -0300" stop="20200501123000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501123000 -0300" stop="20200501130000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501130000 -0300" stop="20200501140000 -0300" channel="Band SD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200501140000 -0300" stop="20200501150000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200501150000 -0300" stop="20200501160000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200501160000 -0300" stop="20200501185000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501185000 -0300" stop="20200501192000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501192000 -0300" stop="20200501202000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501202000 -0300" stop="20200501211000 -0300" channel="Band SD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200501211000 -0300" stop="20200501215700 -0300" channel="Band SD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200501215700 -0300" stop="20200501220000 -0300" channel="Band SD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200501220000 -0300" stop="20200501224500 -0300" channel="Band SD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200501224500 -0300" stop="20200502004500 -0300" channel="Band SD">
+    <title lang="pt">Música na Band Live - O Encontro Ao Vivo - Léo Santana, Parangolé e Xanddy</title>
+    <category lang="pt">Espetáculo/Musical</category>
+  </programme>
+  <programme start="20200502004500 -0300" stop="20200502013000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502013000 -0300" stop="20200502013500 -0300" channel="Band SD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200502013500 -0300" stop="20200502022000 -0300" channel="Band SD">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200502022000 -0300" stop="20200502024000 -0300" channel="Band SD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502024000 -0300" stop="20200502034500 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502034500 -0300" stop="20200502050000 -0300" channel="Band SD">
+    <title lang="pt">Cine+ Uma História de Amor</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200504063500 -0300" stop="20200504070000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Futurama</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200502050000 -0300" stop="20200502080000 -0300" channel="Band SD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200504070000 -0300" stop="20200504072500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200502080000 -0300" stop="20200502083000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - Tainá e os Guardiões da Amazônia</title>
+    <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200504072500 -0300" stop="20200504074500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200502083000 -0300" stop="20200502090000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - Rob, o Robô</title>
+    <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200504074500 -0300" stop="20200504075200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
+  <programme start="20200502090000 -0300" stop="20200502093000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - Pac-Man</title>
+    <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200504075200 -0300" stop="20200504080000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
+  <programme start="20200502093000 -0300" stop="20200502100000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - Super Onze</title>
+    <category lang="pt">Infantil/Animação</category>
   </programme>
-  <programme start="20200504080000 -0300" stop="20200504083000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200502100000 -0300" stop="20200502103000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - B-Daman</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200502103000 -0300" stop="20200502110000 -0300" channel="Band SD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries/Viagem</category>
+  </programme>
+  <programme start="20200502110000 -0300" stop="20200502113000 -0300" channel="Band SD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200504083000 -0300" stop="20200504090000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200502113000 -0300" stop="20200502120000 -0300" channel="Band SD">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502120000 -0300" stop="20200502123000 -0300" channel="Band SD">
+    <title lang="pt">Nosso Agro</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200504090000 -0300" stop="20200504100000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
-    <category lang="pt">Variedades/Diversos</category>
+  <programme start="20200502123000 -0300" stop="20200502124500 -0300" channel="Band SD">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200504100000 -0300" stop="20200504123500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200504123500 -0300" stop="20200504140500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Acampamento do Papai</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200504140500 -0300" stop="20200504160500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Caça-Fantasmas</title>
+  <programme start="20200502124500 -0300" stop="20200502160000 -0300" channel="Band SD">
+    <title lang="pt">Sessão Livre: As Bruxas De Oz</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200504160500 -0300" stop="20200504163000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
+  <programme start="20200502160000 -0300" stop="20200502185000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502185000 -0300" stop="20200502192000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502192000 -0300" stop="20200502202000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502202000 -0300" stop="20200502211000 -0300" channel="Band SD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200502211000 -0300" stop="20200502215700 -0300" channel="Band SD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502215700 -0300" stop="20200502220000 -0300" channel="Band SD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200502220000 -0300" stop="20200502223000 -0300" channel="Band SD">
+    <title lang="pt">Documento Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200502223000 -0300" stop="20200502230000 -0300" channel="Band SD">
+    <title lang="pt">Operação Implacável</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200502230000 -0300" stop="20200502234500 -0300" channel="Band SD">
+    <title lang="pt">Orange is The New Black</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200502234500 -0300" stop="20200503013000 -0300" channel="Band SD">
+    <title lang="pt">SFT - MMA - Especial Melhores Lutas</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200503013000 -0300" stop="20200503034500 -0300" channel="Band SD">
+    <title lang="pt">Cine Privé: O Amante Misterioso</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200503034500 -0300" stop="20200503050000 -0300" channel="Band SD">
+    <title lang="pt">Cinema Na Madrugada: Retrato de Mulher</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200503050000 -0300" stop="20200503080000 -0300" channel="Band SD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200503080000 -0300" stop="20200503090000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - Beyblade Burst</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503090000 -0300" stop="20200503100000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - Super Onze</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503100000 -0300" stop="20200503103000 -0300" channel="Band SD">
+    <title lang="pt">Band Kids - B-Daman</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200503103000 -0300" stop="20200503111000 -0300" channel="Band SD">
+    <title lang="pt">Mundo Animado - Changeman</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200504163000 -0300" stop="20200504165500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
+  <programme start="20200503111000 -0300" stop="20200503115000 -0300" channel="Band SD">
+    <title lang="pt">Mundo Animado - Jiraiya</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200504165500 -0300" stop="20200504172000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
+  <programme start="20200503115000 -0300" stop="20200503123000 -0300" channel="Band SD">
+    <title lang="pt">Mundo Animado - Jaspion</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200504172000 -0300" stop="20200504174500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200503123000 -0300" stop="20200503140000 -0300" channel="Band SD">
+    <title lang="pt">Band Esporte Clube</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200504174500 -0300" stop="20200504181000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200503140000 -0300" stop="20200503154500 -0300" channel="Band SD">
+    <title lang="pt">Você Torceu Aqui - São Paulo x Milan</title>
+    <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200504181000 -0300" stop="20200504200000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Até que a Sorte nos Separe 3</title>
+  <programme start="20200503154500 -0300" stop="20200503163000 -0300" channel="Band SD">
+    <title lang="pt">Planeta Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200503163000 -0300" stop="20200503180000 -0300" channel="Band SD">
+    <title lang="pt">Cine Band: Tubarão de Malibu</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200503180000 -0300" stop="20200503193000 -0300" channel="Band SD">
+    <title lang="pt">3º Tempo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200503193000 -0300" stop="20200503211500 -0300" channel="Band SD">
+    <title lang="pt">Domingo no Cinema: A Família Addams</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200504200000 -0300" stop="20200504202500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200504202500 -0300" stop="20200504205000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200504205000 -0300" stop="20200504211500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200504211500 -0300" stop="20200504214000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200504214000 -0300" stop="20200504220500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200504220500 -0300" stop="20200504223000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200504223000 -0300" stop="20200505001000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Uma Noite no Museu 3: O Segredo da Tumba</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200505001000 -0300" stop="20200505015500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Gente Grande 2</title>
+  <programme start="20200503211500 -0300" stop="20200503223000 -0300" channel="Band SD">
+    <title lang="pt">Sessão Especial: Todo Mundo em Pânico</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200505015500 -0300" stop="20200505033500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Cada um tem a Gêmea que Merece</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200505033500 -0300" stop="20200505053000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Motoqueiro Fantasma</title>
+  <programme start="20200503223000 -0300" stop="20200504001500 -0300" channel="Band SD">
+    <title lang="pt">Cine Ação: Kill Bill - Volume 1</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200505053000 -0300" stop="20200505070000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">O Paizão</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200504001500 -0300" stop="20200504011500 -0300" channel="Band SD">
+    <title lang="pt">Canal Livre</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505070000 -0300" stop="20200505072500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200504011500 -0300" stop="20200504020000 -0300" channel="Band SD">
+    <title lang="pt">Show Business</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505072500 -0300" stop="20200505074500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Life in Pieces</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200504020000 -0300" stop="20200504023000 -0300" channel="Band SD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505074500 -0300" stop="20200505075200 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
+  <programme start="20200504023000 -0300" stop="20200504050000 -0300" channel="Band SD">
+    <title lang="pt">Cinema na Madrugada: Catch .44</title>
+    <category lang="pt">Filme/Suspense</category>
   </programme>
-  <programme start="20200505075200 -0300" stop="20200505080000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Zoom In</title>
-    <category lang="pt">Variedades/Cinema</category>
+  <programme start="20200504050000 -0300" stop="20200504060000 -0300" channel="Band SD">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505080000 -0300" stop="20200505083000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200504060000 -0300" stop="20200504080000 -0300" channel="Band SD">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504080000 -0300" stop="20200504090000 -0300" channel="Band SD">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200504090000 -0300" stop="20200504110000 -0300" channel="Band SD">
+    <title lang="pt">Aqui na BAND</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200505083000 -0300" stop="20200505090000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200504110000 -0300" stop="20200504123000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504123000 -0300" stop="20200504130000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504130000 -0300" stop="20200504140000 -0300" channel="Band SD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200504140000 -0300" stop="20200504150000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200505090000 -0300" stop="20200505100000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Infomercial</title>
+  <programme start="20200504150000 -0300" stop="20200504160000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200505100000 -0300" stop="20200505114000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Competição em Família</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200504160000 -0300" stop="20200504185000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505114000 -0300" stop="20200505132500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">As Aventuras de Tintim</title>
-    <category lang="pt">Filme/Animação</category>
+  <programme start="20200504185000 -0300" stop="20200504192000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505132500 -0300" stop="20200505150000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Alvin e os Esquilos</title>
-    <category lang="pt">Filme/Infantil</category>
+  <programme start="20200504192000 -0300" stop="20200504202000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505150000 -0300" stop="20200505152500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504202000 -0300" stop="20200504211000 -0300" channel="Band SD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
   </programme>
-  <programme start="20200505152500 -0300" stop="20200505155000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504211000 -0300" stop="20200504215700 -0300" channel="Band SD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200505155000 -0300" stop="20200505161500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504215700 -0300" stop="20200504220000 -0300" channel="Band SD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200505161500 -0300" stop="20200505164000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504220000 -0300" stop="20200504224500 -0300" channel="Band SD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505164000 -0300" stop="20200505190000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Velozes e Furiosos 8</title>
-    <category lang="pt">Filme/Ação</category>
+  <programme start="20200504224500 -0300" stop="20200504234500 -0300" channel="Band SD">
+    <title lang="pt">Documento Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505190000 -0300" stop="20200505193000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200504234500 -0300" stop="20200505003000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505193000 -0300" stop="20200505200000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505003000 -0300" stop="20200505003500 -0300" channel="Band SD">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200505200000 -0300" stop="20200505202500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505003500 -0300" stop="20200505013000 -0300" channel="Band SD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries/Viagem</category>
   </programme>
-  <programme start="20200505202500 -0300" stop="20200505205000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505013000 -0300" stop="20200505021500 -0300" channel="Band SD">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200505205000 -0300" stop="20200505211500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505021500 -0300" stop="20200505024000 -0300" channel="Band SD">
+    <title lang="pt">+info</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505211500 -0300" stop="20200505214000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505024000 -0300" stop="20200505050000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505214000 -0300" stop="20200505220500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505050000 -0300" stop="20200505060000 -0300" channel="Band SD">
+    <title lang="pt">1º Jornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505220500 -0300" stop="20200505223000 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200505060000 -0300" stop="20200505080000 -0300" channel="Band SD">
+    <title lang="pt">Notícias da Redação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200505223000 -0300" stop="20200506005500 -0300" channel="Fox FHD (H265)">
-    <title lang="pt">Operação Red Sparrow</title>
+  <programme start="20200505080000 -0300" stop="20200505090000 -0300" channel="Band SD">
+    <title lang="pt">Bora Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505090000 -0300" stop="20200505110000 -0300" channel="Band SD">
+    <title lang="pt">Aqui na BAND</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505110000 -0300" stop="20200505123000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505123000 -0300" stop="20200505130000 -0300" channel="Band SD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505130000 -0300" stop="20200505140000 -0300" channel="Band SD">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200505140000 -0300" stop="20200505150000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505150000 -0300" stop="20200505160000 -0300" channel="Band SD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200505160000 -0300" stop="20200505185000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505185000 -0300" stop="20200505192000 -0300" channel="Band SD">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505192000 -0300" stop="20200505202000 -0300" channel="Band SD">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505202000 -0300" stop="20200505211000 -0300" channel="Band SD">
+    <title lang="pt">Ouro Verde</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200505211000 -0300" stop="20200505215700 -0300" channel="Band SD">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200505215700 -0300" stop="20200505220000 -0300" channel="Band SD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200505220000 -0300" stop="20200505224500 -0300" channel="Band SD">
+    <title lang="pt">Band Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200505224500 -0300" stop="20200506003000 -0300" channel="Band SD">
+    <title lang="pt">Terça Especial: Expresso Transiberiano</title>
     <category lang="pt">Filme/Suspense</category>
   </programme>
 </tv>
